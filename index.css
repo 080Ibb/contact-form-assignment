@@ -1,0 +1,41 @@
+.background_image{
+    background-image: url("./Assets/IMG_7412.JPEG");
+background-position: inherit;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+.background_image1{
+    background-image: url("./Assets/IMG_3134.JPG");
+background-position: inherit;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.background_image2{
+    background-image: url("./Assets/IMG_8642.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.background_image3{
+    background-image: url("./Assets/IMG_7996.JPG");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.family_tree{
+color: rgb(96, 96, 1);
+text-align: center;
+    
+}
+.welcomePageHeader{
+    color: rgb(164, 64, 18);
+    text-align: center;
+    
+}
+.quote{
+    text-align: center;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
